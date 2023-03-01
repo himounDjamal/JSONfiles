@@ -1,8 +1,45 @@
 {
   "products": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+    "id": 1,
+    "name": "iPhone 13",
+    "summary": "The latest iPhone with a powerful A15 Bionic chip",
+    "description": "The iPhone 13 features a stunning 6.1-inch Super Retina XDR display, Ceramic Shield front cover, and 5G capability. With the powerful A15 Bionic chip, you can experience lightning-fast performance and long-lasting battery life.",
+    "category": "Electronics",
+    "reference": "MDLA3B/A",
+    "brand": "Apple",
+    "ean": "190199837542"
+  },
+  {
+    "id": 2,
+    "name": "AirPods Pro",
+    "summary": "Noise-cancelling earbuds with a comfortable, customizable fit",
+    "description": "The AirPods Pro offer active noise cancellation for immersive sound, and come with three sizes of soft, tapered silicone tips for a customizable fit. They also feature a transparency mode, which allows you to hear your surroundings when you need to. With Adaptive EQ, the music you love sounds even better.",
+    "category": "Electronics",
+    "reference": "MWP22AM/A",
+    "brand": "Apple",
+    "ean": "190199246850"
+  },
+  {
+    "id": 3,
+    "name": "Ninja Foodi Grill",
+    "summary": "Indoor grill that sears, sizzles, and air fry crisps",
+    "description": "The Ninja Foodi Grill is the grill that sears, sizzles, and air fry crisps. With unique Cyclonic Grilling Technology, 500F rapid cyclonic air circulates around food for amazing Surround Searing, while the 500F high-density grill grate gives you delicious char-grilled marks and flavor without the smoke. It's also an air fry crisper, allowing you to enjoy guilt-free fried food.",
+    "category": "Home & Kitchen",
+    "reference": "AG301",
+    "brand": "Ninja",
+    "ean": "622356560968"
+  },
+  {
+    "id": 4,
+    "name": "Kindle Paperwhite",
+    "summary": "Waterproof e-reader with a glare-free display",
+    "description": "The Kindle Paperwhite is the thinnest and lightest Kindle yet, with a glare-free display that reads like real paper even in bright sunlight. With 8GB of storage, you can store thousands of books and audiobooks, and with the built-in adjustable light, you can read comfortably for hours, day or night. The Kindle Paperwhite is also waterproof, so you can read by the pool, in the bath, or at the beach worry-free.",
+    "category": "Electronics",
+    "reference": "B07CXG6C9W",
+    "brand": "Amazon",
+    "ean": "841667177710"
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
